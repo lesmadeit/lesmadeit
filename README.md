@@ -14,18 +14,21 @@ Welcome to my GitHub profile! I'm a passionate Django developer with a love for 
 
 - **Languages:**
   
-(https://skillicons.dev/icons?i=py,js,html,css,)](https://skillicons.dev)
+https://skillicons.dev/icons?i=py,js,html,css,)](https://skillicons.dev
 
 
 - **Frameworks:**
-(https://skillicons.dev/icons?i=django,bootstrap,html,css,)](https://skillicons.dev)
+  
+https://skillicons.dev/icons?i=django,bootstrap,html,css,)](https://skillicons.dev
 
 - ** Databases**
-(https://skillicons.dev/icons?i=postgres,)](https://skillicons.dev)
+  
+https://skillicons.dev/icons?i=postgres,)](https://skillicons.dev
   
   
 - **Tools:**
-(https://skillicons.dev/icons?i=vscode,rabbitmq,git,github,)](https://skillicons.dev)
+  
+https://skillicons.dev/icons?i=vscode,rabbitmq,git,github,)](https://skillicons.dev
 
 
 ## GitHub Stats
@@ -34,9 +37,11 @@ Welcome to my GitHub profile! I'm a passionate Django developer with a love for 
 
 ## Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile)
-- [Twitter] x.com/bytekarma
-- [Personal Website/Blog] https://lesmadeit.github.io/portfolio/
+- LinkedIn: https://www.linkedin.com/in/leslie-mwendwa-82109a22b/
+
+- Twitter: x.com/bytekarma
+  
+- Portfolio: https://lesmadeit.github.io/portfolio/
 
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
