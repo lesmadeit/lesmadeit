@@ -14,22 +14,22 @@ Welcome to my GitHub profile! I'm a passionate Django developer with a love for 
 
 - **Languages:**
   
-https://skillicons.dev/icons?i=py,js,html,css,)
+https://skillicons.dev/icons?i=py,js,html,css
 
 
 - **Frameworks:**
   
-https://skillicons.dev/icons?i=django,bootstrap,html,css)
+https://skillicons.dev/icons?i=django,bootstrap,html,css
 
 
 - ** Databases**
   
-https://skillicons.dev/icons?i=postgres)
+https://skillicons.dev/icons?i=postgres
   
   
 - **Tools:**
   
-https://skillicons.dev/icons?i=vscode,rabbitmq,git,github)
+https://skillicons.dev/icons?i=vscode,rabbitmq,git,github
 
 
 ## GitHub Stats
