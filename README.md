@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate Django developer from Nairobi(Ken
 
 ## Frameworks
   
-![Frameworks](https://skillicons.dev/icons?i=django,bootstrap,html,css)
+![Frameworks](https://skillicons.dev/icons?i=django,bootstrap)
 
 
 ## Databases
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate Django developer from Nairobi(Ken
   
 ## Tools
   
-![Tools](https://skillicons.dev/icons?i=vscode,rabbitmq,git,github)
+![Tools](https://skillicons.dev/icons?i=vscode,rabbitmq,redis,git,github)
 
 
 ## GitHub Stats
