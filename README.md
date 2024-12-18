@@ -18,19 +18,19 @@ Welcome to my GitHub profile! I'm a passionate Django developer with a love for 
 
 
 
-- **Frameworks:**
+## Frameworks
   
-https://skillicons.dev/icons?i=django,bootstrap,html,css
+![Frameworks](https://skillicons.dev/icons?i=django,bootstrap,html,css)
 
 
-- ** Databases**
+## Databases
   
-https://skillicons.dev/icons?i=postgres
+![Databases](https://skillicons.dev/icons?i=postgres)
   
   
-- **Tools:**
+## Tools
   
-https://skillicons.dev/icons?i=vscode,rabbitmq,git,github
+![Tools](https://skillicons.dev/icons?i=vscode,rabbitmq,git,github)
 
 
 ## GitHub Stats
