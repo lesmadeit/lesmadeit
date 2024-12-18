@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate Django developer from Nairobi(Ken
 
 - LinkedIn: https://www.linkedin.com/in/leslie-mwendwa-82109a22b/
 
-- Twitter: x.com/bytekarma
+- Twitter: https://x.com/bytekarma
   
 - Portfolio: https://lesmadeit.github.io/portfolio/
 
