@@ -12,9 +12,10 @@ Welcome to my GitHub profile! I'm a passionate Django developer with a love for 
 
 ## Technology Stack
 
-- **Languages:**
-  
-https://skillicons.dev/icons?i=py,js,html,css
+## Languages
+
+![Languages](https://skillicons.dev/icons?i=py,js,html,css)
+
 
 
 - **Frameworks:**
