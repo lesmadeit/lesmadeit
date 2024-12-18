@@ -1,6 +1,6 @@
 # Hi there, I'm Leslie Mwendwa 👋
 
-Welcome to my GitHub profile! I'm a passionate Django developer with a love for coding and building innovative solutions.
+Welcome to my GitHub profile! I'm a passionate Django developer from Nairobi(Kenya). I love coding and building innovative solutions.
 
 ## About Me
 
