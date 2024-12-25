@@ -33,9 +33,7 @@ Welcome to my GitHub profile! I'm a passionate Django developer from Nairobi(Ken
 ![Tools](https://skillicons.dev/icons?i=vscode,rabbitmq,redis,git,github)
 
 
-## GitHub Stats
 
-![lesmadeit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesmadeit&show_icons=true&theme=radical)
 
 ## Connect with Me
 
