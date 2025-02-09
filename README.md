@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate Django developer from Nairobi(Ken
 
 ## About Me
 
-- 🔭 I’m currently  building an ecommerce project with Django and Bootstrap, with M-Pesa API for payment integration. I'm also working on a Polls app intergrated with the Django REST framework
-- 🌱 I’m currently learning the Django REST framework and API development
+- 🔭 I’m currently  building a Jobsboard project that has a blog incorporated. I'm also working on a Polls app intergrated with the Django REST framework
+- 🌱 I’m currently learning about task scheduling using Celery
 - 💬 Ask me about web development using Django and Bootstrap
 - 📫 How to reach me: lesmwendwa@gmail.com
 - ⚡ Fun fact: I love playing video games during my free time.
