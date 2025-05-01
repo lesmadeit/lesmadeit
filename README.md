@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate Django developer from Nairobi(Ken
 
 ## About Me
 
-- 🔭 I’m currently  building a Jobsboard project that has a blog incorporated. I'm also working on a Polls app intergrated with the Django REST framework
-- 🌱 I’m currently learning about task scheduling using Celery
+- 🔭 I’m currently  building a Jobsboard project that has a blog incorporated and uses celery for task scheduling, with rabbitmq as the broker. 
+
 - 💬 Ask me about web development using Django and Bootstrap
 - 📫 How to reach me: lesmwendwa@gmail.com
 - ⚡ Fun fact: I love playing video games during my free time.
